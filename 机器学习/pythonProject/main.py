@@ -1,6 +1,3 @@
-a=1
-b=a
-c=a
-del a
-del b
-print(c)
+d = {1:100,2:200,3:300}
+L = d.items()
+print(L)
